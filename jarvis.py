@@ -112,7 +112,7 @@ def voice():
                 speak("What should I say?")
                 content = take_command()
                 to = "vmarri92@gmail.com"
-                sendEmail(to, content)  # sendEmail() function implementation is missing in the provided code
+            #sendEmail(to, content)  # sendEmail() function implementation is missing in the provided code
                 speak("Email has been sent!")
             except Exception as e:
                 print(e)
