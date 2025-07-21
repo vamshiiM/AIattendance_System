@@ -1,4 +1,4 @@
-Attendance 360 – Redefining How Attendance Is Managed with AI
+##Attendance 360 – Redefining How Attendance Is Managed with AI
 
 #visuals
 <img width="1918" height="1003" alt="Screenshot 2025-07-21 204026" src="https://github.com/user-attachments/assets/3061bd4e-ea29-43a8-aea4-bf00c1b6df17" />
@@ -20,19 +20,25 @@ Manage all operations—users, data, and processes—from a single dashboard.
 👥 User Onboarding System
 Smooth enrollment process for both new users and administrators.
 
-🛠️ Tech Stack
+
+
+##🛠️ Tech Stack
 Frontend
-Python
-Tkinter
-CustomTkinter
+-Python
+
+-Tkinter
+
+-CustomTkinter
 
 Backend
-Node.js
-Express.js
-MYSql
+-Node.js
+
+-Express.js
+
+-MYSql
 
 Tools
-Git & GitHub
+-Git & GitHub
 
 👨‍💻 Team
 -Ayush Tiwari
