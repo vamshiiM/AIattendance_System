@@ -47,18 +47,28 @@ Smooth enrollment process for both new users and administrators.
 
 - speech_recongnition  -- for the ai to listen and recognize
 
+## Modules used
+
+- PIL -- for image rendering
+
+- googleAPI
+
+- webbrowser
+
+- threading
+
 ## Engine
 - sapi5
 
 ## Tools
--Git & GitHub
+- Git & GitHub
 
 ## 👨‍💻 Team
 
--Ayush Tiwari
+- Ayush Tiwari
 
--Sakshi Said
+- Sakshi Said
 
--Simran Yelave 
+- Simran Yelave 
 
--Vamshi Marri 
+- Vamshi Marri 
