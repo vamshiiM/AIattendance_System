@@ -25,25 +25,27 @@ Smooth enrollment process for both new users and administrators.
 ## 🛠️ Tech Stack
 
 ## Frontend
--Python
+- Python
 
--Tkinter
+- Tkinter
 
--CustomTkinter
+- CustomTkinter
 
+- Matplotlib
+  
 ## Backend 
--Python
+- Python
 
--my-sql-connector-python
+- my-sql-connector-python
 
 ## Database
--MYSql
+- MYSql
 
 ## Modules for JARVIS
 
--pyttsx3  -- to convert text to speech
+- pyttsx3  -- to convert text to speech
 
--speech_recongnition  -- for the ai to listen and recognize
+- speech_recongnition  -- for the ai to listen and recognize
 
 ## Engine
 - sapi5
