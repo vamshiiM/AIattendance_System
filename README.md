@@ -7,48 +7,49 @@
 <img width="1919" height="1017" alt="Screenshot 2025-07-21 204154" src="https://github.com/user-attachments/assets/fbfbae08-b089-48aa-85ad-ddae224c6c0d" />
 
 
-🔑 Key Features
+## 🔑 Key Features
 Jarvis(Ai assistant)
 Experience hands free attendance experience with our smart Ai.
 
-📊 Interactive Admin Dashboard
+## 📊 Interactive Admin Dashboard
 Offers visual insights on attendance patterns, performance metrics, and user engagement.
 
-🛠️ Centralized Admin Control Panel
+## 🛠️ Centralized Admin Control Panel
 Manage all operations—users, data, and processes—from a single dashboard.
 
-👥 User Onboarding System
+## 👥 User Onboarding System
 Smooth enrollment process for both new users and administrators.
 
 
 
-##🛠️ Tech Stack
-Frontend
+## 🛠️ Tech Stack
+
+## Frontend
 -Python
 
 -Tkinter
 
 -CustomTkinter
 
-Backend 
+## Backend 
 -Python
 
 -my-sql-connector-python
 
-Database
+## Database
 -MYSql
 
-Modules for JARVIS
+## Modules for JARVIS
 
 -pyttsx3
 
 -speech_recongnition
 
 
-Tools
+## Tools
 -Git & GitHub
 
-👨‍💻 Team
+## 👨‍💻 Team
 
 -Ayush Tiwari
 
