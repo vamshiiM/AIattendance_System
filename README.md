@@ -30,12 +30,20 @@ Frontend
 
 -CustomTkinter
 
-Backend
--Node.js
+Backend 
+-Python
 
--Express.js
+-my-sql-connector-python
 
+Database
 -MYSql
+
+Modules for JARVIS
+
+-pyttsx3
+
+-speech_recongnition
+
 
 Tools
 -Git & GitHub
