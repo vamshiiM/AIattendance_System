@@ -1,6 +1,6 @@
-##Attendance 360 – Redefining How Attendance Is Managed with AI
+## Attendance 360 – Redefining How Attendance Is Managed with AI
 
-#visuals
+## visuals
 <img width="1918" height="1003" alt="Screenshot 2025-07-21 204026" src="https://github.com/user-attachments/assets/3061bd4e-ea29-43a8-aea4-bf00c1b6df17" />
 
 
@@ -41,10 +41,12 @@ Smooth enrollment process for both new users and administrators.
 
 ## Modules for JARVIS
 
--pyttsx3
+-pyttsx3  -- to convert text to speech
 
--speech_recongnition
+-speech_recongnition  -- for the ai to listen and recognize
 
+## Engine
+- sapi5
 
 ## Tools
 -Git & GitHub
